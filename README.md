@@ -6,7 +6,7 @@ NIM : 362358302147
 -
 
 1. Register
-   ![Uploading Screenshot (1279).png…]()
+   ![Screenshot 2024-11-12 145121](https://github.com/user-attachments/assets/cc5646e3-f908-4241-835d-293b58cf2c78)
 
 2. Login
    ![Screenshot 2024-11-12 145330](https://github.com/user-attachments/assets/0ac772ff-8cc0-49ed-a29b-60a903c3d001)
